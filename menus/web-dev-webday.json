@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle web-dev-webday",
+        "command": "web-dev-webday:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "web-dev-webday",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "web-dev-webday:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
