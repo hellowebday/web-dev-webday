@@ -1,10 +1,9 @@
 {
   "name": "web-dev-webday",
   "main": "./lib/web-dev-webday",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "รับทำเว็บไซต์",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "web-dev-webday:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
