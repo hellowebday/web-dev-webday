@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "web-dev-webday:toggle"
   },
-  "repository": "https://github.com/atom/web-dev-webday",
+  "repository": "https://github.com/hellowebday/web-dev-webday",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
