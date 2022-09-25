@@ -1,7 +1,7 @@
 {
   "name": "web-dev-webday",
   "main": "./lib/web-dev-webday",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "รับทำเว็บไซต์",
   "keywords": [],
   "activationCommands": {
